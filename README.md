@@ -25,4 +25,4 @@ $req=New \Saci\Req('http://www.google.com');
 <br />
 echo $req->body;
 <br />
-$req->query("//a[@class='foo']");
+$req->query("//a[@class='gbgt']");

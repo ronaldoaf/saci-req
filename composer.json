@@ -3,7 +3,7 @@
     "type": "library",
     "description": "HTTP requests and XPATH queries in a simpler way",
     "keywords": ["curl","http", "query", "scraping", "xpath"],
-    "homepage": "https://github.com/ronaldoaf/req",
+    "homepage": "https://github.com/ronaldoaf/saci-req",
     "license": "MIT",
     "authors": [
         {

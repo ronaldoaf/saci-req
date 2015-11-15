@@ -20,8 +20,42 @@ require 'vendor/autoload.php'
 
 $req=New \Saci\Req('http://www.google.com');
 
-echo $req->body;
-
 $req->query("//a[@class='gbgt']");
 ```
+
+
+###Documentation
+
+####Input Parameters
+
+
+
+
+
+
+
+------------------------------------
+#####method
+*Description:* Any HTTP Method: GET, POST, PUT, DELETE
+
+*Type:* String
+
+*Default:* GET
+
+
+
+
+
+
+
+
+----------------------------
+#####fields
+*Description:* Fields for Post Requests
+
+*Type:* String or Array
+
+*Default:* GET
+
+
 

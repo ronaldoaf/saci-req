@@ -35,7 +35,7 @@ $req->query("//a[@class='gbgt']");
 
 
 ------------------------------------
-#####method
+>#####method
 *Description:* Any HTTP Method: GET, POST, PUT, DELETE
 
 *Type:* String
@@ -50,7 +50,7 @@ $req->query("//a[@class='gbgt']");
 
 
 ----------------------------
-#####fields
+>#####fields
 *Description:* Fields for Post Requests
 
 *Type:* String or Array

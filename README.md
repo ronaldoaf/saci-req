@@ -21,6 +21,8 @@ require 'vendor/autoload.php'
 <b>Example usage</b>
 <br />
 
-$req=New \Req\Req('http://www.google.com');
-
+$req=New \Saci\Req('http://www.google.com');
+<br />
 echo $req->body;
+<br />
+$req->query("//a[@class='foo']");

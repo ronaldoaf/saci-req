@@ -8,8 +8,9 @@ Including to your current composer.json
 
 Add this line into require in your composer.json:
 
+```javascript
 "saci/req": "*"
-
+```
 and use autoload.php to include the classes
 
 

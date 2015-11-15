@@ -1,9 +1,9 @@
-# saci-req
+# saci/req
 HTTP requests and XPATH queries in a simpler way
 <br />
 <br />
 
-<b>Install</b>
+##Install
 
 Including to your current composer.json
 
@@ -18,7 +18,7 @@ require 'vendor/autoload.php'
 <br />
 <br />
 <br />
-<b>Example usage</b>
+##Example usage
 <br />
 
 $req=New \Saci\Req('http://www.google.com');

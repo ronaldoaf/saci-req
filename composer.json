@@ -1,5 +1,5 @@
 {
-    "name": "req/req",
+    "name": "saci/req",
     "type": "library",
     "description": "HTTP requests and XPATH queries in a simpler way",
     "keywords": ["curl","http", "query", "scraping", "xpath"],

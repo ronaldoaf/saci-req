@@ -3,7 +3,7 @@ HTTP requests and XPATH queries in a simpler way
 <br />
 <br />
 
-<b>Install<b>
+<b>Install</b>
 
 Including to your current composer.json
 

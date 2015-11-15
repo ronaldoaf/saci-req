@@ -1,0 +1,22 @@
+{
+    "name": "req/req",
+    "type": "library",
+    "description": "HTTP requests and XPATH queries in a simpler way",
+    "keywords": ["curl","http", "query", "scraping", "xpath"],
+    "homepage": "https://github.com/ronaldoaf/req",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ronaldo Araújo de Farias",
+            "email": "ronaldo.a.f@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+         "ext-curl":"*",
+         "ext-dom": "*"
+    },
+    "autoload": {
+        "psr-4": {"Req\\": "src/"}
+    }
+}
